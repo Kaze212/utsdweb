@@ -37,7 +37,7 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 1. Clone repositori ini ke komputer Anda:
    ```bash
- 
+ https://github.com/Kaze212/utsdweb.git
 
 2. Buka file index.html di browser Anda untuk melihat tampilan website.
 
