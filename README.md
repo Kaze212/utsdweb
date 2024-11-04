@@ -52,10 +52,6 @@ Website ini memiliki beberapa fitur utama, antara lain:
 
 *Tampilan Desktop*
 
-<img src="## 📸 Screenshots
-
-*Tampilan Desktop*
-
 <img src="https://github.com/user-attachments/assets/7846af3f-532c-4dd9-a726-ede2ca7b68e6">
 <img src="https://github.com/user-attachments/assets/81c0095b-b3e0-46a6-81f0-1219fdc53ba6">
 <img src="https://github.com/user-attachments/assets/dac004f8-ff15-4516-a50c-5a344df9b83a">
